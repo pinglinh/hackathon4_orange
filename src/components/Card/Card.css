@@ -1,0 +1,55 @@
+.card {
+  width: 402.9px;
+  height: 596.5px;
+  background-color: #eeeeee;
+  color: #2d2d2d;
+  margin: 20px 0;
+}
+
+.card p {
+  text-transform: uppercase;
+  color: #2d2d2d;
+}
+
+.platforms {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+.phone {
+  width: 103.5px;
+  height: 167.7px;
+  background-color: #979797;
+
+}
+
+.tablet {
+  width: 232.8px;
+  height: 281.4px;
+  background-color: #979797;
+}
+
+
+.info {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.info div {
+  color: #2d2d2d;
+}
+
+.status {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.status div {
+  color: #2d2d2d;
+}

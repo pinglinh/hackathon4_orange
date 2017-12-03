@@ -1,0 +1,16 @@
+header {
+  height: 60px;
+  background-color: #2d2d2d;
+  width: 100%;
+  position: sticky;
+  text-align: left;
+  /*border-bottom: 5px solid white;*/
+}
+
+p {
+  color: white;
+}
+
+img {
+  height: 60px;
+}

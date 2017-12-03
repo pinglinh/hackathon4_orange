@@ -1,0 +1,11 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.title-date-time-icons {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}

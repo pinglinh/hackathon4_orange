@@ -1,0 +1,158 @@
+{
+  "verify": [
+    {
+      "store": "UK android",
+      "results": {
+        "verified": "ok",
+        "component": ["file:///sldkjasldkj/dasjhdbaskjhdba.jpg"]
+      }
+    },
+    {
+      "store": "US android",
+      "results": {
+        "verified": "ok",
+        "component": ["file:///sldkjasldkj/dasjhdbaskjhdba.jpg"]
+      }
+    }
+  ],
+
+  "android": [
+    {
+      "store": "UK android",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "/containers/Screenshots/iphone_UK/UK1.png",
+          "/containers/Screenshots/iphone_UK/UK2.png",
+          "/containers/Screenshots/iphone_UK/UK3.png"
+        ]
+      }
+    },
+    {
+      "store": "US android",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "/containers/Screenshots/iphone_UK/UK1.png",
+          "/containers/Screenshots/iphone_UK/UK2.png",
+          "/containers/Screenshots/iphone_UK/UK3.png"
+        ]
+      }
+    },
+    {
+      "store": "DE android",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "/containers/Screenshots/iphone_UK/UK1.png",
+          "/containers/Screenshots/iphone_UK/UK2.png",
+          "/containers/Screenshots/iphone_UK/UK3.png"
+        ]
+      }
+    },
+    {
+      "store": "ES android",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    },
+    {
+      "store": "FR android",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    },
+    {
+      "store": "IT android",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    },
+    {
+      "store": "AU android",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    },
+    {
+      "store": "GR android",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    }
+  ],
+
+  "ios": [
+    {
+      "store": "GB",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "/containers/Screenshots/iphone_UK/UK1.png",
+          "/containers/Screenshots/iphone_UK/UK2.png",
+          "/containers/Screenshots/iphone_UK/UK3.png"
+        ]
+      }
+    },
+    {
+      "store": "RU",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    },
+    {
+      "store": "US",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    },
+    {
+      "store": "IT",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    },
+    {
+      "store": "FR",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    },
+    {
+      "store": "GR",
+      "results": {
+        "verified": "ok",
+        "component": [
+          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
+        ]
+      }
+    }
+  ]
+}

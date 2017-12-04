@@ -1,12 +1,9 @@
-import React from 'react';
-import './DateTime.css';
+import React from "react";
+import "./DateTime.css";
 
 const DateTime = () => {
-  return (
-    <div>
-      Last updated; Thursday - 30/11/17 - 11:09
-    </div>
-  )
-}
+  const dateAndTime = new Date();
+  return <div>Last updated: {String(dateAndTime)}</div>;
+};
 
 export default DateTime;

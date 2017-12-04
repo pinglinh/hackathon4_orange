@@ -15,11 +15,13 @@ class App extends Component {
   }
 
   setPlatform(platform) {
-    this.setState({ platform });
+    this.setState({
+      platform: platform
+    });
   }
 
   render() {
-    let { platform } = this.state;
+    // let { platform } = this.state;
     // let platform = this.state.platform;
 
     return (
@@ -35,7 +37,9 @@ class App extends Component {
         </div>
 
         <div className="card-container">
-          {data[platform].map(cardData => <Card country={cardData.store} />)}
+          {data[this.state.platform].map(cardData => (
+            <Card country={cardData.store} results={cardData.results} />
+          ))}
         </div>
       </div>
     );

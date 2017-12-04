@@ -22,15 +22,15 @@
   width: 103.5px;
   height: 167.7px;
   background-color: #979797;
-
+  text-align: center;
 }
 
 .tablet {
   width: 232.8px;
   height: 281.4px;
   background-color: #979797;
+  text-align: center;
 }
-
 
 .info {
   width: 100%;

@@ -21,137 +21,237 @@
       "store": "UK android",
       "results": {
         "verified": "ok",
-        "component": [
-          "/containers/Screenshots/iphone_UK/UK1.png",
-          "/containers/Screenshots/iphone_UK/UK2.png",
-          "/containers/Screenshots/iphone_UK/UK3.png"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/UK1.png",
+            "./images/iPhone/UK2.png",
+            "./images/iPhone/UK3.png"
+          ],
+          "tablet": [
+            "./images/iPad/UK1.png",
+            "./images/iPad/UK2.png",
+            "./images/iPad/UK10.png",
+            "./images/iPad/UK11.png"
+          ]
+        }
       }
     },
     {
       "store": "US android",
       "results": {
         "verified": "ok",
-        "component": [
-          "/containers/Screenshots/iphone_UK/UK1.png",
-          "/containers/Screenshots/iphone_UK/UK2.png",
-          "/containers/Screenshots/iphone_UK/UK3.png"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/US1.png",
+            "./images/iPhone/US2.png",
+            "./images/iPhone/US3.png"
+          ],
+          "tablet": ["./images/iPad/US.png"]
+        }
       }
     },
     {
       "store": "DE android",
       "results": {
         "verified": "ok",
-        "component": [
-          "/containers/Screenshots/iphone_UK/UK1.png",
-          "/containers/Screenshots/iphone_UK/UK2.png",
-          "/containers/Screenshots/iphone_UK/UK3.png"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/DE1.png",
+            "./images/iPhone/DE2.png",
+            "./images/iPhone/DE3.png"
+          ],
+          "tablet": ["./images/iPad/DE1.png", "./images/iPad/DE2.png"]
+        }
       }
     },
     {
       "store": "ES android",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/ES1.png",
+            "./images/iPhone/ES2.png",
+            "./images/iPhone/ES3.png"
+          ],
+          "tablet": ["./images/iPad/ES1.png", "./images/iPad/ES2.png"]
+        }
       }
     },
     {
       "store": "FR android",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/FR1.png",
+            "./images/iPhone/FR2.png",
+            "./images/iPhone/FR3.png"
+          ],
+          "tablet": ["./images/iPad/FR1.png", "./images/iPad/FR2.png"]
+        }
       }
     },
     {
       "store": "IT android",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/IT1.png",
+            "./images/iPhone/IT2.png",
+            "./images/iPhone/IT3.png"
+          ],
+          "tablet": ["./images/iPad/IT1.png", "./images/iPad/IT2.png"]
+        }
       }
     },
     {
       "store": "AU android",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/AU1.png",
+            "./images/iPhone/AU2.png",
+            "./images/iPhone/AU3.png"
+          ],
+          "tablet": ["./images/iPad/AU1.png", "./images/iPad/AU2.png"]
+        }
       }
     },
     {
-      "store": "GR android",
+      "store": "RU android",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/RU1.png",
+            "./images/iPhone/RU2.png",
+            "./images/iPhone/RU3.png"
+          ],
+          "tablet": ["./images/iPad/RU1.png", "./images/iPad/RU2.png"]
+        }
       }
     }
   ],
 
   "ios": [
     {
-      "store": "GB",
+      "store": "UK iOS",
       "results": {
         "verified": "ok",
-        "component": [
-          "/containers/Screenshots/iphone_UK/UK1.png",
-          "/containers/Screenshots/iphone_UK/UK2.png",
-          "/containers/Screenshots/iphone_UK/UK3.png"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/UK1.png",
+            "./images/iPhone/UK2.png",
+            "./images/iPhone/UK3.png"
+          ],
+          "tablet": [
+            "./images/iPad/UK1.png",
+            "./images/iPad/UK2.png",
+            "./images/iPad/UK10.png",
+            "./images/iPad/UK11.png"
+          ]
+        }
       }
     },
     {
-      "store": "RU",
+      "store": "US iOS",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/US1.png",
+            "./images/iPhone/US2.png",
+            "./images/iPhone/US3.png"
+          ],
+          "tablet": ["./images/iPad/US.png"]
+        }
       }
     },
     {
-      "store": "US",
+      "store": "DE iOS",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/DE1.png",
+            "./images/iPhone/DE2.png",
+            "./images/iPhone/DE3.png"
+          ],
+          "tablet": ["./images/iPad/DE1.png", "./images/iPad/DE2.png"]
+        }
       }
     },
     {
-      "store": "IT",
+      "store": "ES iOS",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/ES1.png",
+            "./images/iPhone/ES2.png",
+            "./images/iPhone/ES3.png"
+          ],
+          "tablet": ["./images/iPad/ES1.png", "./images/iPad/ES2.png"]
+        }
       }
     },
     {
-      "store": "FR",
+      "store": "FR iOS",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/FR1.png",
+            "./images/iPhone/FR2.png",
+            "./images/iPhone/FR3.png"
+          ],
+          "tablet": ["./images/iPad/FR1.png", "./images/iPad/FR2.png"]
+        }
       }
     },
     {
-      "store": "GR",
+      "store": "IT iOS",
       "results": {
         "verified": "ok",
-        "component": [
-          "https://www.cats.org.uk/uploads/images/featurebox_sidebar_kids/grief-and-loss.jpg"
-        ]
+        "component": {
+          "phone": [
+            "./images/iPhone/IT1.png",
+            "./images/iPhone/IT2.png",
+            "./images/iPhone/IT3.png"
+          ],
+          "tablet": ["./images/iPad/IT1.png", "./images/iPad/IT2.png"]
+        }
+      }
+    },
+    {
+      "store": "AU iOS",
+      "results": {
+        "verified": "ok",
+        "component": {
+          "phone": [
+            "./images/iPhone/AU1.png",
+            "./images/iPhone/AU2.png",
+            "./images/iPhone/AU3.png"
+          ],
+          "tablet": ["./images/iPad/AU1.png", "./images/iPad/AU2.png"]
+        }
+      }
+    },
+    {
+      "store": "RU iOS",
+      "results": {
+        "verified": "ok",
+        "component": {
+          "phone": [
+            "./images/iPhone/RU1.png",
+            "./images/iPhone/RU2.png",
+            "./images/iPhone/RU3.png"
+          ],
+          "tablet": ["./images/iPad/RU1.png", "./images/iPad/RU2.png"]
+        }
       }
     }
   ]

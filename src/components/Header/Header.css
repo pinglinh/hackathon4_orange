@@ -4,6 +4,7 @@ header {
   width: 100%;
   position: sticky;
   text-align: left;
+  top: 0;
   /*border-bottom: 5px solid white;*/
 }
 
@@ -11,6 +12,7 @@ p {
   color: white;
 }
 
-img {
-  height: 60px;
+.asos-logo img {
+  /*max-width: 100%;*/
+  max-height: 100%;
 }

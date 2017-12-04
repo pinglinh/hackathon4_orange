@@ -1,7 +1,7 @@
 import React from "react";
 import "./Card.css";
 
-import Screenshots from "./../../containers/Screenshots/Screenshots.js";
+import Screenshots from "./../../components/Screenshots/Screenshots.js";
 
 const Card = props => {
   return (
@@ -10,9 +10,11 @@ const Card = props => {
 
       <div className="platforms">
         <div className="phone">
-          <Screenshots />
+          <Screenshots screenshots={props.results.component.phone} />
         </div>
-        <div className="tablet" />
+        <div className="tablet">
+          <Screenshots screenshots={props.results.component.tablet} />
+        </div>
       </div>
 
       <div className="info">
